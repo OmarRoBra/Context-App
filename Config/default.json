@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://Omar:Alceconbotas2@omar-sdsdk.mongodb.net/Veterinaria?authSource=admin&replicaSet=omar-shard-0&w=majority&readPreference=primary&appname=MongoDB%20Compass&retryWrites=true&ssl=true",
+    "jwtSecret":"mongodbtest"
+}
